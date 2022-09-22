@@ -1,24 +1,58 @@
 body {
-    background-color: chartreuse;
+    background-color: rgb(123, 199, 209);
     color: blue;
     font-size: 25;
+    font-family: 'Fira Sans', sans-serif;
+
 }
 
 h1 {
-    color: rgb(0, 51, 255);
-    width: 800px;
+    color: rgb(1, 0, 82);
+    width: 850px;
     margin: auto;
 
 }
 
 h3 {
     color: rgb(0, 0, 0);
-    border: 3px solid rgb(83, 108, 102);
+    border: 3px solid rgb(165, 0, 187);
     width: 400px;
     margin-left: 100px;
     padding: 50px;
+    padding-top: -300px;
 }
 
 .main-header {
     margin-top: 100px;
+}
+.allh3{
+    text-align: center;
+    
+}
+span {
+    color: rgb(0, 0, 0);
+}
+.mj {
+    margin-top: 105px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 100px;
+}
+.lj {
+    margin-top: -965px;
+    margin-bottom: 0px;
+    margin-right: 00px;
+    margin-left: 700px;
+}
+.kaj {
+    margin-top: -963px;
+    margin-bottom: 0px;
+    margin-right: 300px;
+    margin-left: 1300px;
+}
+.number {
+    color: gold;
+    font-size: 50;
+    margin-top: -40px;
+    margin-bottom: 30px;
 }
